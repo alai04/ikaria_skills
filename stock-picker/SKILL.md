@@ -40,8 +40,6 @@ Check ALL of the following sector ETFs for today's performance:
 
 | Ticker | Sector |
 |--------|--------|
-| GLD | Gold |
-| SLV | Sliver |
 | XME | Metals and Mining |
 | DIA | Dow Jones Industrial |
 | SPY | S&P 500 |
@@ -50,7 +48,6 @@ Check ALL of the following sector ETFs for today's performance:
 | IWM | Russell 2000 |
 | SCHA | U.S. Small-Cap |
 | VB | Small-Cap Index |
-| EEM | MSCI Emerging Markets |
 | XOVR | Private-Public Crossover |
 | IYG | Financial Services |
 | IAI | Broker-Dealers & Securities Exchanges |
@@ -58,8 +55,6 @@ Check ALL of the following sector ETFs for today's performance:
 | KIE | Insurance |
 | SDY | S&P Dividend |
 | ITB | Home Construction |
-| NLR | Uranium and Nuclear |
-| URAA | Uranium |
 | NUKZ | Nuclear Renaissance |
 | URA | Uranium |
 | XLK | Technology |
